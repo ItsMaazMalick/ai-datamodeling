@@ -29,7 +29,7 @@ export default function Home() {
       >
         <div className="flex items-center space-x-4">
           <Database className="h-6 w-6" />
-          <h1 className="text-xl font-bold">DataModel Pro</h1>
+          <h1 className="text-xl font-bold">AI</h1>
         </div>
         <nav className="hidden md:flex space-x-4">
           <Button variant="ghost">Home</Button>
