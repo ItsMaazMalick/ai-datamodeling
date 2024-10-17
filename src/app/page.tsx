@@ -1,13 +1,5 @@
 "use client";
-import Image from "next/image";
-import {
-  Menu,
-  ChevronDown,
-  LayoutDashboard,
-  Database,
-  GitBranch,
-  Settings,
-} from "lucide-react";
+import { Menu, Database, GitBranch, Settings } from "lucide-react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import {
